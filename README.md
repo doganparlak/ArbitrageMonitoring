@@ -1,4 +1,4 @@
-# ArbitrageMonitoring
+# Arbitrage Monitoring
 HFT Quant - Case Study, Real-Time Arbitrage Monitoring
 
 This repository documents a case study completed as part of the application process for the Quantitative Analyst position at TankX company. It includes the requirements file, assignment sheet, project presentation, and a source directory containing Jupyter notebooks along with the saved data.
